@@ -1,4 +1,4 @@
-# lab-5-kadenbeckstead
+# Kaden Beckstead Salt/Hash Practice
 
 ## Project setup
 ```
